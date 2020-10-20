@@ -1,4 +1,4 @@
-baseURL = "https://Akilakuma.github.io/"
+baseURL = "https://akilakuma.github.io/"
 languageCode = "zh-tw"
 title = "masuruneco blog"
 theme = "hugo-theme-zozo"
